@@ -1,0 +1,18 @@
+{"quotes":[
+	{
+		"text":"Quote01", 
+		"source":"Author01"
+	},{
+		"text":"Quote02", 
+		"source":"Author02"
+	},{
+		"text":"Quote03", 
+		"source":"Author03"
+	},{
+		"text":"Quote04", 
+		"source":"Author04"
+	},{
+		"text":"Quote05", 
+		"source":"Author05"
+	}]
+}
